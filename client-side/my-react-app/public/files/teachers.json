@@ -1,0 +1,15 @@
+
+[
+  {
+    "teacherID": "123",
+    "firstName": "Israel",
+    "lastName": "Teacher",
+    "class": "Class A"
+  },
+  {
+    "teacherID": "321",
+    "firstName": "Dalia",
+    "lastName": "Teacher",
+    "class": "Class B"
+  }
+]

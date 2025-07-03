@@ -1,0 +1,11 @@
+# תיקיית סביבה וירטואלית
+hebert_env/
+
+# קבצי מסמכים אישיים (אין צורך במרכאות)
+transformers_course.docx
+הצעת פרויקט רחלי סטפנסקי.docx
+ספר פרויקט רחל סטפנסקי.docx
+ספר פרויקט רחל סטפנסקי.pdf
+
+# node_modules
+client-side/my-react-app/node_modules/

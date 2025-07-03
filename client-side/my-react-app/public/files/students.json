@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Moshe Friedman",
+    "id": "123456789",
+    "class": "Class A"
+  },
+  {
+    "name": "Yaakov Levi",
+    "id": "234567891",
+    "class": "Class B"
+  },
+  {
+    "name": "Shimon Goldstein",
+    "id": "345678912",
+    "class": "Class A"
+  },
+  {
+    "name": "Yosef Meir",
+    "id": "456789123",
+    "class": "Class C"
+  },
+  {
+    "name": "Aharon Katz",
+    "id": "567891234",
+    "class": "Class B"
+  },
+  {
+    "name": "Chaim Rosenberg",
+    "id": "678912345",
+    "class": "Class A"
+  },
+  {
+    "name": "Yitzchak Weiss",
+    "id": "789123456",
+    "class": "Class C"
+  },
+  {
+    "name": "Eliezer Stern",
+    "id": "891234567",
+    "class": "Class A"
+  },
+  {
+    "name": "Avraham Berger",
+    "id": "912345678",
+    "class": "Class B"
+  },
+  {
+    "name": "Dovid Klein",
+    "id": "102938475",
+    "class": "Class C"
+  }
+]
