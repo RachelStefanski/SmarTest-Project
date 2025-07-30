@@ -1,4 +1,4 @@
-Description
+# **SmarTest - Automated test checking**
 
 SmarTest is an intelligent system for grading open-ended exam answers, focusing on semantic and syntactic analysis of the responses. The system was developed to improve the grading process, save time, and provide objective, reasoned feedback to students. By using natural language processing (NLP) technologies, the system analyzes open-ended answers accurately, taking into account syntactic structures and semantic nuances, and provides an automatic grade based on understanding the true meaning of the answer.
 
